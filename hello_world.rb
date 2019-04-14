@@ -1,6 +1,3 @@
 ```ruby
 puts "Hello World!"
 ```
-
-
-
